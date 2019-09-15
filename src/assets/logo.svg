@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130.638" height="37.682" viewBox="0 0 130.638 37.682">
+  <g id="Componente_2_1" data-name="Componente 2 – 1" transform="translate(0 0.318)">
+    <g id="Componente_1_1" data-name="Componente 1 – 1">
+      <g id="logo" transform="translate(0 2.313)">
+        <path id="Caminho_2" data-name="Caminho 2" d="M19.506,0H7.434A7.443,7.443,0,0,0,0,7.435V19.506A7.443,7.443,0,0,0,7.434,26.94H19.506a7.443,7.443,0,0,0,7.435-7.435V7.435A7.443,7.443,0,0,0,19.506,0ZM24.55,19.506a5.05,5.05,0,0,1-5.044,5.044H7.434A5.05,5.05,0,0,1,2.39,19.506V7.435A5.05,5.05,0,0,1,7.434,2.39H19.506A5.05,5.05,0,0,1,24.55,7.435V19.506Z"/>
+        <path id="Caminho_3" data-name="Caminho 3" d="M47.91,40.97a6.942,6.942,0,1,0,6.942,6.942A6.95,6.95,0,0,0,47.91,40.97Zm0,11.493a4.551,4.551,0,1,1,4.552-4.551A4.557,4.557,0,0,1,47.91,52.463Z" transform="translate(-34.44 -34.441)"/>
+        <path id="Caminho_4" data-name="Caminho 4" d="M120.674,28.251a1.752,1.752,0,1,0,1.24.513A1.76,1.76,0,0,0,120.674,28.251Z" transform="translate(-99.971 -23.749)"/>
+      </g>
+      <text id="Instagram" transform="translate(36.105 23.682)" font-size="30" font-family="Billabong"><tspan x="0" y="0">Instagram</tspan></text>
+    </g>
+  </g>
+</svg>
